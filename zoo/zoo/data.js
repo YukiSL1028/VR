@@ -244,7 +244,7 @@ var APP_DATA = {
   "name": "Zoo",
   "settings": {
     "mouseViewMode": "drag",
-    "autorotateEnabled": false,
+    "autorotateEnabled": true,
     "fullscreenButton": true,
     "viewControlButtons": true
   }
